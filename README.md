@@ -1,4 +1,4 @@
-# RECA - eCommerce Platform
+# RECA - E-Commerce Platform
 
 ## Overview
 
